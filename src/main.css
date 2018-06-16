@@ -74,3 +74,13 @@ figure img {
 .attribution {
   display: inline-block;
 }
+
+.timeline {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-gap: 1rem 1.5rem;
+}
+
+.timeline dd {
+  margin-left: 0;
+}
