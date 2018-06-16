@@ -61,3 +61,7 @@ figure img {
   margin: auto;
   max-width: 100%;
 }
+
+.attribution {
+  display: inline-block;
+}
