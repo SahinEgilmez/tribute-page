@@ -9,7 +9,8 @@ html {
 }
 
 body {
-  font-size: 1.6rem;
+  color: #373d3f;
+  font: 1.6rem/1.4em 'Roboto', sans-serif;
 }
 
 main {
@@ -17,8 +18,23 @@ main {
   max-width: 100rem;
 }
 
+h1,
+h2 {
+  color: #ff9f1c;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+}
+
 h1 {
   text-align: center;
+}
+
+a {
+  color: #3f88c5;
+}
+
+dt {
+  font-weight: 700;
 }
 
 .columns {
